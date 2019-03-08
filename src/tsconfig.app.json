@@ -11,6 +11,6 @@
     "include": [
         "./**/*.ts",
         "../node_modules/microfront-common/**/*.ts",
-        "../node_modules/microfront-cli/src/app/modules/**/*.ts"
+        "../node_modules/microfront-cli/modules/**/*.ts"
     ]
 }

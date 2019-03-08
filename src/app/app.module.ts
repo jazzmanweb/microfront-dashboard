@@ -2,7 +2,7 @@ import {BrowserModule} from '@angular/platform-browser';
 import {NgModule} from '@angular/core';
 
 import {AppComponent} from './app.component';
-import {HeroModule} from 'microfront-cli/src/app/modules/hero/hero.module';
+import {HeroModule} from 'microfront-cli/modules/hero/hero.module';
 
 @NgModule({
     declarations: [
