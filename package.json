@@ -1,6 +1,6 @@
 {
     "name": "microfront-dashboard",
-    "version": "0.0.0",
+    "version": "1.0.3",
     "scripts": {
         "ng": "ng",
         "start": "ng serve",
@@ -21,8 +21,8 @@
         "@angular/platform-browser-dynamic": "~7.2.0",
         "@angular/router": "~7.2.0",
         "core-js": "^2.5.4",
-        "microfront-common": "git+https://github.com/jazzmanweb/microfront-common.git#v1.0.1",
-        "microfront-cli": "git+https://github.com/jazzmanweb/microfront-cli.git#v1.0.3",
+        "microfront-common": "git+https://github.com/jazzmanweb/microfront-common.git#semver:1.0.1",
+        "microfront-cli": "git+https://github.com/jazzmanweb/microfront-cli.git#semver:1.0.3",
         "rxjs": "~6.3.3",
         "tslib": "^1.9.0",
         "zone.js": "~0.8.26"
